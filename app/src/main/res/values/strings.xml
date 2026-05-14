@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Welcome</string>
+    <string name="descripcion">Application with multilingual support</string>
+</resources>
